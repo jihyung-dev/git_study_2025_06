@@ -1,4 +1,5 @@
 ### IntelliJ IDEA ###
+git_study_hard.iml
 .idea/
 out/
 !**/src/main/**/out/

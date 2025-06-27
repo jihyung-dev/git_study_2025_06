@@ -7,9 +7,8 @@ public class Main {
         }
 
         System.out.println("나 팀장이야~");
-
         System.out.println("난 C야");
-
         System.out.println("나 D브랜치야~");
+        //아무말~~
     }
 }
